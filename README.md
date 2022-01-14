@@ -1,2 +1,2 @@
 # music_events_rr
-Pilot data and simulation for music and emotional events registered report
+Code to run fMRI simulations to determine statistical power for a proposed fMRI study with music and emotional events. Code is made available and submitted along with a Registered Report manuscript before data collection.  
